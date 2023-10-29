@@ -1,4 +1,3 @@
-
 try:
     with open("Mars_Base_Inventory_List.csv","r",encoding="utf-8") as f:
         reader=f.readlines()
@@ -28,12 +27,7 @@ for line in lines:
         print(l[4])
         result+=line
         #result+=str(l)
-
 print(result)
-
-
-       
-
 try:
 
     with open("Mars_Base_Inventory_danger.csv","w",encoding="utf-8") as f:

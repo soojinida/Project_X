@@ -1,0 +1,1 @@
+{'OS': 'Windows', 'OS ver': '10.0.19045', 'CPU type': 'AMD64', 'CPU core': 8, 'MEM size': '8(GB)'}{'CPU use': 73.2, 'MEM use': '14(MB)'}{'OS': 'Windows', 'OS ver': '10.0.19045', 'CPU type': 'AMD64', 'CPU core': 8, 'MEM size': '8(GB)'}{'CPU use': 30.4, 'MEM use': '14(MB)'}{'CPU use': 31.1, 'MEM use': '14(MB)'}

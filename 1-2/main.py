@@ -20,19 +20,6 @@ for line in content:
     date_res.append(date)
     log_res.append(log)
 
-#print(date_res)
-#print(log_res)
-
-# date_res.sort(reverse=True)
-# date=date_res
-# print(date)
-
-# log=log_res
-# for i in range(len(log_res)):
-#     log[len(log_res)-1-i]=log_res[i]
-# print(log)
-
-
 result=defaultdict(lambda:'default')
 
 for i in range(len(content),-1):
