@@ -4,7 +4,7 @@ try:
     with open ("mission_computer_main.log","r",encoding="utf-8") as f:
         content=f.readlines()
 except:
-    print("ì˜ˆì™¸ ë°œìƒ")
+    print("?˜ˆ?™¸ ë°œìƒ")
 f.close()
     
 for line in content:
